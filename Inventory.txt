@@ -1,0 +1,5 @@
+laptop, 3500, 12
+ram, 300, 40
+mobile, 3400, 20
+cable, 120, 22
+drives, 230, 223
