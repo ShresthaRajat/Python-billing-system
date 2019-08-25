@@ -1,4 +1,4 @@
-laptop, 3500, 12
+laptop, 3500, 6
 ram, 300, 40
 mobile, 3400, 20
 cable, 120, 22
